@@ -3,7 +3,7 @@ const users = require('./users.json')
 const fs = require('fs')
 const faker = require('faker')
 
-//so i can commit anew...
+//so i can commit anew... and again...
 const seed = async () => {
   try {
     console.log('syncing DB...')
