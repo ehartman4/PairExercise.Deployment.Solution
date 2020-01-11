@@ -21,10 +21,11 @@
     "faker": "^4.1.0",
     "git-url-parse": "^11.1.2",
     "nodemon": "^1.18.9",
-    "pg": "^7.4.3",
+    "pg": "^7.17.1",
+    "pg-hstore": "^2.3.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "sequelize": "^4.38.1",
+    "sequelize": "^4.44.3",
     "simple-git": "^1.122.0",
     "yaml": "^1.6.0"
   },
